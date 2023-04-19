@@ -13,8 +13,8 @@
 #-license: LGPLv2.1
 #
 #  Copyright (C) 2023  by disability service center in Lao PDR DSC  <www.dsclao.org/en>
-#latest update: 28/March/2023/2023.
-
+#latest update: 08/appril/2023.
+# fix dot : to 456-25
 #  This file is part of liblouis.
 #
 #  liblouis is free software: you can redistribute it and/or modify it
@@ -3281,8 +3281,8 @@ math / 456-34
 # 0-9   see Numeric Symbols
 display : 156
 punctuation : 456-25
-postpunc : 25
-match %a : %a 56-25
+postpunc : 456-25
+match %a : %a 456-25
 #TODO:  this is unnecessarily necessary
 display ; 56
 punctuation ; 456-23
