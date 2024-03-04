@@ -17,6 +17,7 @@ table_files = \
 	be-in-g1.utb \
 	bel.utb \
 	bel-comp.utb \
+	bel-detailed.utb \
 	bengali.cti \
 	bg.dis \
 	bg.ctb \
@@ -71,7 +72,6 @@ table_files = \
 	da-dk-g28_1993.ctb \
 	da-dk-g28.ctb \
 	da-dk-g28l_1993.ctb \
-	da-dk-g2_1993.dic \
 	da-dk-g2.dic \
 	da-dk-octobraille_1993.dis \
 	da-dk-octobraille.dis \
@@ -148,6 +148,7 @@ table_files = \
 	fa-ir-g1.utb \
 	fi-fi-8dot.ctb \
 	fi.utb \
+	fil-g2.ctb \
 	fr-bfu-comp68.cti \
 	fr-bfu-comp6.utb \
 	fr-bfu-comp8.utb \
@@ -163,6 +164,7 @@ table_files = \
 	grc-international-composed.uti \
 	grc-international-decomposed.uti \
 	grc-international-en.utb \
+	grc-international-es.utb \
 	gr-pl-comp8.uti \
 	gu-in-g1.utb \
 	gujarati.cti \
@@ -248,6 +250,7 @@ table_files = \
 	litdigits6DotsPlusDot6.uti \
 	litdigits6Dots.uti \
 	lg-ug-g1.utb \
+	lo-g1.utb \
 	loweredDigits6Dots.uti \
 	loweredDigits8Dots.uti \
 	latinLowercase.uti \
@@ -286,6 +289,8 @@ table_files = \
 	nl-chardefs.uti \
 	nl-comp8.utb \
 	nl-NL-g0.utb \
+	nl-print.dis \
+	nl-unicode.dis \
 	nl.tbl \
 	no-no-8dot-fallback-6dot-g0.utb \
 	no-no-8dot.utb \
@@ -321,6 +326,7 @@ table_files = \
 	pu-in-g1.utb \
 	ro.ctb \
 	ro.tbl \
+	ro-g0.utb \
 	ru-brf.dis \
 	ru-compbrl.ctb \
 	ru.ctb \
@@ -370,6 +376,8 @@ table_files = \
 	telugu.cti \
 	te.tbl \
 	text_nabcc.dis \
+	th-g0.utb \
+	th-comp8-backward.utb \
 	tr.ctb \
 	tr-g1.ctb \
 	tr-g2.ctb \
@@ -383,6 +391,7 @@ table_files = \
 	ukmaths_unicode_defs.cti \
 	uk.utb \
 	uk-comp.utb \
+	uk-detailed.utb \
 	unicode-braille.utb \
 	unicode.dis \
 	unicode-without-blank.dis \

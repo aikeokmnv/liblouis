@@ -7,6 +7,7 @@
 * ../../tables/awa.tbl                           Awadhi                                             Awadhi braille
 * ../../tables/ba.utb                            Bashkir                                            Bashkir braille
 * ../../tables/bel.utb                           Belarusian                                         Belarusian braille
+  ../../tables/bel-detailed.utb                  Belarusian, with capitals                          Belarusian braille with indication of capitals
 * ../../tables/bel-comp.utb                      Belarusian, computer                               Belarusian computer braille
 * ../../tables/bg.tbl                            Bulgarian, computer                                Bulgarian computer braille
 * ../../tables/bg.utb                            Bulgarian                                          Bulgarian braille
@@ -48,6 +49,7 @@
 * ../../tables/dra.tbl                           Dravidian, computer                                Dravidian computer braille
 * ../../tables/el.ctb                            Greek                                              Greek braille
   ../../tables/grc-international-en.utb          Greek, international, English                      Greek internationalized braille as used by English speakers
+  ../../tables/grc-international-es.utb          Greek, international, Spanish                      Spanish braille for Greek text
 * ../../tables/fa-ir-comp8.ctb                   Persian, computer                                  Persian computer braille
 * ../../tables/fa-ir-g1.utb                      Persian                                            Persian braille
   ../../tables/en-ueb-g1.ctb                     English, unified, uncontracted                     Unified English uncontracted braille
@@ -69,6 +71,7 @@
 * ../../tables/et.tbl                            Estonian, computer                                 Estonian computer braille
 * ../../tables/fi.utb                            Finnish                                            Finnish braille
 * ../../tables/fi-fi-8dot.ctb                    Finnish, computer                                  Finnish computer braille
+  ../../tables/fil-g2.ctb                        Filipino, contracted                               Filipino contracted braille
 * ../../tables/fr-bfu-comp6.utb                  French, uncontracted                               French uncontracted braille
 * ../../tables/fr-bfu-comp8.utb                  French, computer                                   French computer braille
 * ../../tables/fr-bfu-g2.ctb                     French, contracted                                 French contracted braille
@@ -106,6 +109,7 @@
 * ../../tables/kok.tbl                           Konkani                                            Konkani braille
 * ../../tables/kru.tbl                           Kurukh                                             Kurukh braille
 * ../../tables/lg-ug-g1.utb                      Luganda                                            Luganda braille
+* ../../tables/lo-g1.utb                         Lao                                                Lao braille
 * ../../tables/lt.tbl                            Lithuanian, 8-dot                                  Lithuanian 8-dot braille
 * ../../tables/lt-6dot.tbl                       Lithuanian, 6-dot                                  Lithuanian 6-dot braille
 * ../../tables/lv.tbl                            Latvian                                            Latvian braille
@@ -143,6 +147,7 @@
 * ../../tables/pt-pt-g1.utb                      Portuguese, uncontracted                           Portuguese uncontracted braille
 * ../../tables/pt-pt-comp8.ctb                   Portuguese, computer                               Portuguese computer braille
 * ../../tables/ro.tbl                            Romanian, computer                                 Romanian computer braille
+* ../../tables/ro-g0.utb                         Romanian, uncontracted                             Romanian braille
 * ../../tables/ru.ctb                            Russian, computer                                  Russian computer braille
   ../../tables/ru-litbrl.ctb                     Russian                                            Russian braille
   ../../tables/ru-litbrl-detailed.utb            Russian, with capitals                             Russian braille with indication of capitals
@@ -172,12 +177,15 @@
 * ../../tables/ta-ta-g1.ctb                      Tamil                                              Tamil braille
 * ../../tables/ta.tbl                            Tamil, computer                                    Tamil computer braille
 * ../../tables/te.tbl                            Telugu                                             Telugu braille
+* ../../tables/th-comp8-backward.utb             Thai, computer                                     Thai computer braille
+* ../../tables/th-g0.utb                         Thai                                               Thai braille
 * ../../tables/tr.tbl                            Turkish, computer                                  Turkish computer braille
 * ../../tables/tr-g2.tbl                         Turkish                                            Turkish braille
 * ../../tables/tsn-za-g1.ctb                     Setswana, uncontracted                             Setswana uncontracted braille
 * ../../tables/tsn-za-g2.ctb                     Setswana, contracted                               Setswana contracted braille
 * ../../tables/tt.utb                            Tatar                                              Tatar braille
 * ../../tables/uk.utb                            Ukrainian                                          Ukrainian braille
+  ../../tables/uk-detailed.utb                   Ukrainian, with capitals                           Ukrainian braille with indication of capitals
 * ../../tables/uk-comp.utb                       Ukrainian, computer                                Ukrainian computer braille
 * ../../tables/uz-g1.utb                         Uzbek                                              Uzbek braille
 * ../../tables/ur-pk-g1.utb                      Urdu, uncontracted                                 Urdu uncontracted braille
